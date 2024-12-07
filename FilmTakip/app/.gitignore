@@ -1,0 +1,10 @@
+# Android Studio ile ilgili dosyalar
+local.properties
+*.iml
+.gradle
+/captures/
+/build/
+/.idea/
+
+# API anahtarlarını gizle
+local.properties
