@@ -13,10 +13,12 @@ MovieTracker, kullanıcıların film araması yapabildiği, detaylarını göreb
 ## 📸 Ekran Görüntüleri  
 Aşağıda uygulamanın bazı ekran görüntülerini bulabilirsiniz:
 
-![Screenshot 1](screenshots/home.png)
-![Screenshot 2](screenshots/detail.png)
-![Screenshot 3](screenshots/favorites.png)
-![Screenshot 4](screenshots/search.png)
+<p align="center">
+  <img src="screenshots/home.png" alt="Home Screen" width="300"/>
+  <img src="screenshots/detail.png" alt="Detail Screen" width="300"/>
+  <img src="screenshots/favorites.png" alt="Favorites Screen" width="300"/>
+  <img src="screenshots/search.png" alt="Search Screen" width="300"/>
+</p>
 
 ## Kurulum
 1. Projeyi klonla
